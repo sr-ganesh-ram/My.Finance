@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyFinance",
   "resources": {
-    "hash": "sha256-i1dUZhilMeeZglr5bNzvuAA1c9dDhONP4RPW78hY72s=",
+    "hash": "sha256-9i9z3iP1Oey8XxXscY/3ZZDIJarddsR8JFdVCe3ENZ8=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "FluentValidation.b28mz0qrx7.wasm": "FluentValidation.wasm",
@@ -53,9 +53,9 @@
       "System.Private.CoreLib.uk7aa2f3es.wasm": "System.Private.CoreLib.wasm",
       "MyFinace.Modules.7loh01oppd.wasm": "MyFinace.Modules.wasm",
       "MyFinance.Model.qh9676zsiq.wasm": "MyFinance.Model.wasm",
-      "MyFinance.Utility.jazqq1yh1f.wasm": "MyFinance.Utility.wasm",
+      "MyFinance.Utility.2bhc2i6rq2.wasm": "MyFinance.Utility.wasm",
       "Supabase.RestAPI.iy2z9817y0.wasm": "Supabase.RestAPI.wasm",
-      "MyFinance.olqaadx175.wasm": "MyFinance.wasm",
+      "MyFinance.2baeger8ii.wasm": "MyFinance.wasm",
       "dotnet.native.qqumt3dtyr.js": "dotnet.native.js",
       "dotnet.native.uki5stvaji.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -131,9 +131,9 @@
       "System.cunp5qiwjj.wasm": "sha256-DM5iEENhrifGKn33Y7cqRzxC0OtHXYOKO13icwIazj8=",
       "MyFinace.Modules.7loh01oppd.wasm": "sha256-u/qBx9GGJcd/hhqnahD4nSkG61BNEF1Q8p9500ZjhZQ=",
       "MyFinance.Model.qh9676zsiq.wasm": "sha256-chugWB9HQFe/Fl7eqDnxKWy/mCG9843ye5tdQUANMy4=",
-      "MyFinance.Utility.jazqq1yh1f.wasm": "sha256-K5PnIyD7WFFQ+j+l0S57fI8cQuA5o13cuaJTIvk/zYs=",
+      "MyFinance.Utility.2bhc2i6rq2.wasm": "sha256-YjP39E38XkeVuK0VnKfXLVHL4fUjFds4/Fl1eo9+YZ8=",
       "Supabase.RestAPI.iy2z9817y0.wasm": "sha256-Rm22Yfb4oS3E2FSUN9vM9eAM02eVCTVm5djHqBzRJFI=",
-      "MyFinance.olqaadx175.wasm": "sha256-1GyTRNEIBgWHSxNVlPLKT5NqJ0Yry1axdJhUoYsqxog="
+      "MyFinance.2baeger8ii.wasm": "sha256-ruPLLn1sm3lzYpEnFXjXS0rWC29h8e/UJ7T0jlVHCOs="
     }
   },
   "cacheBootResources": true,
