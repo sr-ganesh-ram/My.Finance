@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "QEn/AycI",
+  "version": "vue6eld1",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -134,8 +134,8 @@ self.assetsManifest = {
       "url": "_framework/MyFinance.Model.qh9676zsiq.wasm"
     },
     {
-      "hash": "sha256-jG/TToSkU4J/fn6kLh9xtPdIQ6LrHbx0JAicHcR8WuU=",
-      "url": "_framework/MyFinance.Utility.oprlg0e8h1.wasm"
+      "hash": "sha256-Lkxv7l98tvZjp9JsrDU6YkYeTJzBATKQSB9GukLRuoU=",
+      "url": "_framework/MyFinance.Utility.q1vkmr9jjx.wasm"
     },
     {
       "hash": "sha256-WE16BWoI0rriiuGan1sOSSW3so4GLhmekzL2EqDeklA=",
@@ -246,7 +246,7 @@ self.assetsManifest = {
       "url": "_framework/System.cunp5qiwjj.wasm"
     },
     {
-      "hash": "sha256-gQesxTaZhswmpr1cs2d2SV//eqWJsSg9cNtQjtjhGk0=",
+      "hash": "sha256-d2Ou61IRpIwgcrkYKb8SeO3QdQz48hqCE65JyOdRmxY=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -286,7 +286,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "hash": "sha256-gb/QSQhCALyjc470SUA1LM8JpX74AJmAHHtLblHl4pY=",
       "url": "favicon.png"
     },
     {
