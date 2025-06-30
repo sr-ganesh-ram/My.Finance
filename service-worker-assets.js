@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "67rFrAR6",
+  "version": "ys5e+ziH",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -134,8 +134,8 @@ self.assetsManifest = {
       "url": "_framework/MyFinance.Model.qh9676zsiq.wasm"
     },
     {
-      "hash": "sha256-MXDsyCHfFoX+H6U6/qyd8rrUZafO6k5f9kT/I6GbyN8=",
-      "url": "_framework/MyFinance.Utility.zv5k5s244s.wasm"
+      "hash": "sha256-iXccpit1Relprm/SH7xJxqQBFONcExKYzNyx1e5elZ8=",
+      "url": "_framework/MyFinance.Utility.lx1zv16ouc.wasm"
     },
     {
       "hash": "sha256-1ZMuYZdBXaLR+yPytComTaqZ8NezlBwauMUurPQltvM=",
@@ -214,8 +214,8 @@ self.assetsManifest = {
       "url": "_framework/System.Private.CoreLib.uk7aa2f3es.wasm"
     },
     {
-      "hash": "sha256-ogkZ4US7TtAR70CmI81CtdvBQShpEJV+nM7BtPzJ2oI=",
-      "url": "_framework/System.Private.Uri.m3mv41m8c2.wasm"
+      "hash": "sha256-59CYh9JuaSQAOxwS8poztl6vK7yxtAQt/WGuxZ86ihM=",
+      "url": "_framework/System.Private.Uri.zpw97zfshm.wasm"
     },
     {
       "hash": "sha256-3IoLyXDPZlSSNuf0cCFYH/6pnHsiIz+bg/ptKuGnMiI=",
@@ -246,7 +246,7 @@ self.assetsManifest = {
       "url": "_framework/System.cunp5qiwjj.wasm"
     },
     {
-      "hash": "sha256-VPg5hhGGcLbkOSUl7L0pDZho+wzYutvVb0KMkD7Eimc=",
+      "hash": "sha256-zvUmhDoOh20Y9Ty9rr1/kmxXro6Ut7BtMsj0vItCiHo=",
       "url": "_framework/blazor.boot.json"
     },
     {
