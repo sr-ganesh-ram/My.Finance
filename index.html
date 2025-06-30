@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyFinance</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DC71JEKB5R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-DC71JEKB5R');
+    </script>
+    <script type="text/javascript">
+        function SetBaseScript() {
+            console.log(window.location.hostname);
+            if (window.location.hostname == "localhost") {
+                console.log("Local Host True");
+                document.write("<base href='/' />");
+            } else {
+                document.write("<base href='/My.Finance/' />");
+            }
+        }
+        SetBaseScript();
+    </script>
+
+
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="MyFinance.styles.css" rel="stylesheet" />
+    <link href="manifest.webmanifest" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+
+
+    <link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
+    <!--https://animate.style/-->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+
+    <!-- Supabase JS Client & Initialization -->
+    <!-- Supabase JS Client & Initialization - MUST BE HERE AND CORRECT -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script>
+        // IMPORTANT: REPLACE THESE WITH YOUR ACTUAL SUPABASE URL AND ANON KEY
+        const SUPABASE_URL = 'https://cqfkvyppzrwjrikyaqsv.supabase.co';
+        const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNxZmt2eXBwenJ3anJpa3lhcXN2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ2Mjc5ODUsImV4cCI6MjA2MDIwMzk4NX0.mGgQm5SEUtDvfP8d3itpGsJqIC-5-4g2Gfnivw0ALPc';
+
+        // Ensure that Supabase.createClient is called correctly
+        try {
+            window.supabaseJSClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+            console.log("Supabase JS client initialized successfully in index.html!");
+        } catch (e) {
+            console.error("Error initializing Supabase JS client in index.html:", e);
+        }
+    </script>
+
+
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_content/MudBlazor/MudBlazor.min.js" defer></script>
+    <!--<script type="module" src="js/supabase.Interop.js" defer></script>-->
+    <script src="js/supabaseInterop.js" defer></script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
+
+    <!-- Reference your JavaScript file from the Razor Class Library here -->
+    <script src="/_content/MyFinace.Modules/js/goals/add-goals.js"></script>
+
+</body>
+
+</html>
