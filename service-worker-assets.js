@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "2T8GvqCx",
+  "version": "jEl9FMKp",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -130,24 +130,24 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.pjv2y7r5d5.wasm"
     },
     {
-      "hash": "sha256-1V4bmkZwt0F0JKvEQOr0GUGQr39K6KSxZ78DTXAt+eo=",
-      "url": "_framework/MudBlazor.tapjgelgqd.wasm"
+      "hash": "sha256-c7okuj3L2641DKzSaosb1UaIIvI/6Bv/wKaPdphVUcc=",
+      "url": "_framework/MudBlazor.ruuho3c12v.wasm"
     },
     {
-      "hash": "sha256-u/qBx9GGJcd/hhqnahD4nSkG61BNEF1Q8p9500ZjhZQ=",
-      "url": "_framework/MyFinace.Modules.7loh01oppd.wasm"
+      "hash": "sha256-g1BDStDaFIuO03LgQn46ssdJuLomW+mcPBoe+1nS9Xk=",
+      "url": "_framework/MyFinace.Modules.to0omgkxub.wasm"
     },
     {
       "hash": "sha256-chugWB9HQFe/Fl7eqDnxKWy/mCG9843ye5tdQUANMy4=",
       "url": "_framework/MyFinance.Model.qh9676zsiq.wasm"
     },
     {
-      "hash": "sha256-WBWSDuS65sbXZoeb7DQwvB/Wj+kHVeHPi5RBYwCsidM=",
-      "url": "_framework/MyFinance.Utility.svnzjhjq4x.wasm"
+      "hash": "sha256-jATS6bJby9pAyEP2R844GYNNRv78Ho9I/hUOuId0B8Y=",
+      "url": "_framework/MyFinance.Utility.odmx58p162.wasm"
     },
     {
-      "hash": "sha256-OAsvWmIgEgIw7+LpLqhWbL3rzfF7vkJAoQh4k1wshQE=",
-      "url": "_framework/MyFinance.czsyovpjmi.wasm"
+      "hash": "sha256-+HpntOAs93n43fllE2e5onOBZqgqkbA0OH0ZXZ5Bshg=",
+      "url": "_framework/MyFinance.cvmd0suwpc.wasm"
     },
     {
       "hash": "sha256-Rm22Yfb4oS3E2FSUN9vM9eAM02eVCTVm5djHqBzRJFI=",
@@ -262,7 +262,7 @@ self.assetsManifest = {
       "url": "_framework/System.cunp5qiwjj.wasm"
     },
     {
-      "hash": "sha256-MFoKdWdKPQg9gbsXKe9j2CovtLXJjE2iq483WqTVDQI=",
+      "hash": "sha256-Sn/vvulKyWptkLBCpjRfoW1UY+8+wOYzrAvSks6LGUo=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -298,7 +298,7 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-TNVYXy3YmUU1e13Pe7qNBi7+mXA0vWCjXiHtWWYYh6o=",
+      "hash": "sha256-FeTGQwhMW4toUpqEU3YHeQhGT9Uc3jItYwHzeVF2hgM=",
       "url": "appsettings.json"
     },
     {

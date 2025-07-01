@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyFinance",
   "resources": {
-    "hash": "sha256-OW6epsYcz7QiKi5QBJ8OeFIj3QREWYd4BbB40aqRld8=",
+    "hash": "sha256-ckF9Ey7tsW2+cyMHl3bfgZBHTB1vh6aal7I5R4GoTrA=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "FluentValidation.b28mz0qrx7.wasm": "FluentValidation.wasm",
@@ -27,7 +27,7 @@
       "Microsoft.Extensions.Primitives.ivrbo4p2mr.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.pjv2y7r5d5.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.ynpjm7kaw7.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "MudBlazor.tapjgelgqd.wasm": "MudBlazor.wasm",
+      "MudBlazor.ruuho3c12v.wasm": "MudBlazor.wasm",
       "System.Collections.Concurrent.jg6y4y6xjv.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.1e31n7fu2f.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.8xsay2675q.wasm": "System.Collections.NonGeneric.wasm",
@@ -55,11 +55,11 @@
       "System.Threading.zcb42vnja5.wasm": "System.Threading.wasm",
       "System.cunp5qiwjj.wasm": "System.wasm",
       "System.Private.CoreLib.nthqmyobhh.wasm": "System.Private.CoreLib.wasm",
-      "MyFinace.Modules.7loh01oppd.wasm": "MyFinace.Modules.wasm",
+      "MyFinace.Modules.to0omgkxub.wasm": "MyFinace.Modules.wasm",
       "MyFinance.Model.qh9676zsiq.wasm": "MyFinance.Model.wasm",
-      "MyFinance.Utility.svnzjhjq4x.wasm": "MyFinance.Utility.wasm",
+      "MyFinance.Utility.odmx58p162.wasm": "MyFinance.Utility.wasm",
       "Supabase.RestAPI.iy2z9817y0.wasm": "Supabase.RestAPI.wasm",
-      "MyFinance.czsyovpjmi.wasm": "MyFinance.wasm",
+      "MyFinance.cvmd0suwpc.wasm": "MyFinance.wasm",
       "dotnet.native.qqumt3dtyr.js": "dotnet.native.js",
       "dotnet.native.qwdax2dzu5.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -111,7 +111,7 @@
       "Microsoft.Extensions.Primitives.ivrbo4p2mr.wasm": "sha256-IuaenpYMh7L1lBxF0ipi4BqLJIarq8zPH49edWgK8H0=",
       "Microsoft.JSInterop.pjv2y7r5d5.wasm": "sha256-NdoCzcdyiZ5MAEJcrbj4AkVwXQWY0PoMCYFTdFBbFmM=",
       "Microsoft.JSInterop.WebAssembly.ynpjm7kaw7.wasm": "sha256-rhpkBOcrE3Jka5EriY0f6+d/lxnwAWpcDQrLBwRBYfg=",
-      "MudBlazor.tapjgelgqd.wasm": "sha256-1V4bmkZwt0F0JKvEQOr0GUGQr39K6KSxZ78DTXAt+eo=",
+      "MudBlazor.ruuho3c12v.wasm": "sha256-c7okuj3L2641DKzSaosb1UaIIvI/6Bv/wKaPdphVUcc=",
       "System.Collections.Concurrent.jg6y4y6xjv.wasm": "sha256-zb73iEvu25rSlP7FWyoGgGuhMGm8JjTqM1o3jR4bC+0=",
       "System.Collections.Immutable.1e31n7fu2f.wasm": "sha256-l9WbpOewOQ2mO/ms3swKbwxC8EbAt31emaXz9UtOox8=",
       "System.Collections.NonGeneric.8xsay2675q.wasm": "sha256-7HqP+PZ+qCsLJbjbeyfqP2HRlyqLlCMCwyKT97mwdk4=",
@@ -137,11 +137,11 @@
       "System.Text.RegularExpressions.e098jdikar.wasm": "sha256-Yrn2EzySZabZY88Ija9UVZcWAnMardETYLGgrv00l3k=",
       "System.Threading.zcb42vnja5.wasm": "sha256-fZ9o2IQTIELEttSIeZ1yev0uL+0qIYnwOC1p/5RM/0k=",
       "System.cunp5qiwjj.wasm": "sha256-DM5iEENhrifGKn33Y7cqRzxC0OtHXYOKO13icwIazj8=",
-      "MyFinace.Modules.7loh01oppd.wasm": "sha256-u/qBx9GGJcd/hhqnahD4nSkG61BNEF1Q8p9500ZjhZQ=",
+      "MyFinace.Modules.to0omgkxub.wasm": "sha256-g1BDStDaFIuO03LgQn46ssdJuLomW+mcPBoe+1nS9Xk=",
       "MyFinance.Model.qh9676zsiq.wasm": "sha256-chugWB9HQFe/Fl7eqDnxKWy/mCG9843ye5tdQUANMy4=",
-      "MyFinance.Utility.svnzjhjq4x.wasm": "sha256-WBWSDuS65sbXZoeb7DQwvB/Wj+kHVeHPi5RBYwCsidM=",
+      "MyFinance.Utility.odmx58p162.wasm": "sha256-jATS6bJby9pAyEP2R844GYNNRv78Ho9I/hUOuId0B8Y=",
       "Supabase.RestAPI.iy2z9817y0.wasm": "sha256-Rm22Yfb4oS3E2FSUN9vM9eAM02eVCTVm5djHqBzRJFI=",
-      "MyFinance.czsyovpjmi.wasm": "sha256-OAsvWmIgEgIw7+LpLqhWbL3rzfF7vkJAoQh4k1wshQE="
+      "MyFinance.cvmd0suwpc.wasm": "sha256-+HpntOAs93n43fllE2e5onOBZqgqkbA0OH0ZXZ5Bshg="
     }
   },
   "cacheBootResources": true,
