@@ -85,10 +85,12 @@
     <script src="_content/MudBlazor/MudBlazor.min.js" defer></script>
     <!--<script type="module" src="js/supabase.Interop.js" defer></script>-->
     <script src="js/supabaseInterop.js" defer></script>
-    <script>navigator.serviceWorker.register('service-worker.js');</script>
 
     <!-- Reference your JavaScript file from the Razor Class Library here -->
-    <script src="js/device-detect.js" type="text/javascript" />
+    <script src="js/device-detect.js" type="text/javascript" defer></script>
+
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
+
 
 </body>
 
