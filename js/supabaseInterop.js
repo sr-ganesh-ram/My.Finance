@@ -135,7 +135,7 @@ window.supabaseInterop = {
             } : null;
 
             /*console.log("JS: Invoking Blazor method OnJsAuthStateChanged with session:", serializableSession);*/
-            supabaseServiceInstance.invokeMethodAsync('OnJsAuthStateChanged', serializableSession);
+            supabaseServiceInstance.invokeMethodAsync('OnJsAuthStateChanged', serializableSession, "supabaseInterop.js");
         } else {
             console.warn("JS: Blazor service instance not set for callback. Auth state change not notified.");
         }

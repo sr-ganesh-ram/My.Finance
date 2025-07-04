@@ -61,7 +61,7 @@ function notifyBlazorAuthChange(session) {
 
         console.log("JS: Invoking Blazor method OnJsAuthStateChanged with session:", serializableSession);
         // Invoke the Blazor method to update its authentication state
-        supabaseServiceInstance.invokeMethodAsync('OnJsAuthStateChanged', serializableSession);
+        supabaseServiceInstance.invokeMethodAsync('OnJsAuthStateChanged', serializableSession, "");
     } else {
         console.warn("JS: Blazor service instance not set for callback. Auth state change not notified.");
     }
