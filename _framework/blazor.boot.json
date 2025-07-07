@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyFinance",
   "resources": {
-    "hash": "sha256-ihYcWO2Wqhgw29PWlWtFM8ZwwHXvVYKUMJQ2yaCCK3o=",
+    "hash": "sha256-YiORjEi0m+Bcc81eiGDASYH3UIsJcj/qC/zTww7UGFM=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "FluentValidation.b28mz0qrx7.wasm": "FluentValidation.wasm",
@@ -56,7 +56,7 @@
       "System.Threading.rhqtxmnkbk.wasm": "System.Threading.wasm",
       "System.ezh7nh9jo1.wasm": "System.wasm",
       "System.Private.CoreLib.qeijhx2fwx.wasm": "System.Private.CoreLib.wasm",
-      "MyFinace.Modules.zfo6tg7gg2.wasm": "MyFinace.Modules.wasm",
+      "MyFinace.Modules.yzkldmqkoi.wasm": "MyFinace.Modules.wasm",
       "MyFinance.Model.cdu50x8wq7.wasm": "MyFinance.Model.wasm",
       "MyFinance.Utility.y324mcqydr.wasm": "MyFinance.Utility.wasm",
       "Supabase.RestAPI.b8midhbfqj.wasm": "Supabase.RestAPI.wasm",
@@ -139,7 +139,7 @@
       "System.Text.RegularExpressions.bghbl0sanv.wasm": "sha256-5V2myFtp/eLlxz0vBN4v+HdYRl/FBZUKxse1noTbjto=",
       "System.Threading.rhqtxmnkbk.wasm": "sha256-oYsQ2970oN6Rm+lC7qs420muo57kRfzVXMGfv0sTZeY=",
       "System.ezh7nh9jo1.wasm": "sha256-Nv51P+bfX0y6hjZKHwl1psgtuYYu3R6lBn21use0Oag=",
-      "MyFinace.Modules.zfo6tg7gg2.wasm": "sha256-P667S+VBHox6/AcTv/J9tSjikOjAciwBCzv2uzLSy7Y=",
+      "MyFinace.Modules.yzkldmqkoi.wasm": "sha256-jkKr2Ca3JlRfgeYEn4anRwI7h3rdFm0VBxFxPNF/IEk=",
       "MyFinance.Model.cdu50x8wq7.wasm": "sha256-ADN2IGPqGQnYnJHgeBzOwubiyk1V5hwwqB6vVynF2ik=",
       "MyFinance.Utility.y324mcqydr.wasm": "sha256-ronr5W43/d0MjOZzuMnWqyaBpHaMYMURqwU5Np9LixY=",
       "Supabase.RestAPI.b8midhbfqj.wasm": "sha256-9T2/A3XpFHrGPM+nNb32xjuwIiJbmgy4Y3ftWHfScas=",
