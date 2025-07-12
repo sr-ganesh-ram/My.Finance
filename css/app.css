@@ -112,3 +112,20 @@ code {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+/* Apex Chart Override - Tooltip background and text color */
+.apexcharts-tooltip {
+    background-color: #333333 !important;
+    color: #ffffff !important;
+}
+
+    /* Optional: Tooltip title */
+    .apexcharts-tooltip .apexcharts-tooltip-title {
+        background-color: #444444 !important;
+        color: #ffffff !important;
+    }
+
+    /* Optional: Tooltip text */
+    .apexcharts-tooltip .apexcharts-tooltip-text {
+        color: #ffffff !important;
+    }
