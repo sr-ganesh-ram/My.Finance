@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyFinance",
   "resources": {
-    "hash": "sha256-RFS0Xun6r5cwWD2w1nRLdM/5uO8cgy9dBcpf+dCnjqo=",
+    "hash": "sha256-jdduMXImctw2U/kh9dixqceekO/UinJtkKPQvK4rrmM=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "FluentValidation.b28mz0qrx7.wasm": "FluentValidation.wasm",
@@ -57,11 +57,11 @@
       "System.Threading.0cx7wsbxpk.wasm": "System.Threading.wasm",
       "System.e3zjcgk0va.wasm": "System.wasm",
       "System.Private.CoreLib.lhilyc7vpr.wasm": "System.Private.CoreLib.wasm",
-      "MyFinace.Modules.hh43zezlko.wasm": "MyFinace.Modules.wasm",
-      "MyFinance.Model.d5y3sx67wz.wasm": "MyFinance.Model.wasm",
-      "MyFinance.Utility.8x5l0qiqjn.wasm": "MyFinance.Utility.wasm",
-      "Supabase.RestAPI.kwnzya8z0v.wasm": "Supabase.RestAPI.wasm",
-      "MyFinance.8pqmmfa957.wasm": "MyFinance.wasm",
+      "MyFinace.Modules.a6n4ldrr7u.wasm": "MyFinace.Modules.wasm",
+      "MyFinance.Model.02zbf7quy7.wasm": "MyFinance.Model.wasm",
+      "MyFinance.Utility.dpx52lqyga.wasm": "MyFinance.Utility.wasm",
+      "Supabase.RestAPI.7su47nt0l5.wasm": "Supabase.RestAPI.wasm",
+      "MyFinance.9ng779p70z.wasm": "MyFinance.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.st0ovrfdhi.js": "dotnet.native.js",
       "dotnet.native.67rumul467.wasm": "dotnet.native.wasm",
@@ -141,11 +141,11 @@
       "System.Text.RegularExpressions.98uwkr3dn9.wasm": "sha256-CbFoVXhYRGMhcOw9uhTw00Iro49aSUOFRvXzH8VQnRI=",
       "System.Threading.0cx7wsbxpk.wasm": "sha256-gFs3XkrV7taLib8Qmri1Wg6A1mYyGihnV6D5ggE5LUY=",
       "System.e3zjcgk0va.wasm": "sha256-lrs/UyncE8iGHZBiACLKRTCGeN96e2DCnxdT0uncmRg=",
-      "MyFinace.Modules.hh43zezlko.wasm": "sha256-daRm62/slZBDC+k16RU/e4Yel8Kvnu/FVyUUXxWvZu4=",
-      "MyFinance.Model.d5y3sx67wz.wasm": "sha256-X1B2lePXF7SJ5dlzi9TugBS/X1XCDYsZPwMv0G+RghI=",
-      "MyFinance.Utility.8x5l0qiqjn.wasm": "sha256-PFmUwHvuh5cnWebkYhfUyHoKwSkqkr3zFA54GCB9Cvo=",
-      "Supabase.RestAPI.kwnzya8z0v.wasm": "sha256-PJI9Y8kB4NSELuFcMaciYLkdTVbOVh+JSGBPn4oRfrQ=",
-      "MyFinance.8pqmmfa957.wasm": "sha256-VH0UK8FWOZCQzXLR1DzYxnzQKJHUX81HhQ0tJHh0mrM="
+      "MyFinace.Modules.a6n4ldrr7u.wasm": "sha256-UkcuzwKbgE8X0Pr+13hqVhPb9HKoWjJEoGAyatvq3wM=",
+      "MyFinance.Model.02zbf7quy7.wasm": "sha256-OJF0ObT4YEI7dVPWvDe0pd4Os3hQw07TGxxJelXPVlY=",
+      "MyFinance.Utility.dpx52lqyga.wasm": "sha256-4Q/70KSXWH8yu+kNgED0GoJHAm3ZW3EaanQP1h0bs+k=",
+      "Supabase.RestAPI.7su47nt0l5.wasm": "sha256-12c5Q2M9OnU9bDNTV74blO8BRi5pQsY7DRuQloyRikI=",
+      "MyFinance.9ng779p70z.wasm": "sha256-+zT/3Xziaoivee5JIS6nQWjpheQ74EG9Ppqzg506cBQ="
     }
   },
   "cacheBootResources": true,
