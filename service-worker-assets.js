@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "jWJjSNGG",
+  "version": "6bfvpeZI",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -350,24 +350,24 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.s91ff0dq2v.wasm"
     },
     {
-      "hash": "sha256-rlg3qGXXyUHsNqaM42Sv4NNh03ZndAUCgJGJxofAs7Q=",
-      "url": "_framework/MyFinace.Modules.u1pmzjte57.wasm"
+      "hash": "sha256-rBasztKm2lxWAhQrLicA76jfvpB9jBtrzMPg/Qo4Mmg=",
+      "url": "_framework/MyFinace.Modules.03sehocn6j.wasm"
     },
     {
-      "hash": "sha256-X1B2lePXF7SJ5dlzi9TugBS/X1XCDYsZPwMv0G+RghI=",
-      "url": "_framework/MyFinance.Model.d5y3sx67wz.wasm"
+      "hash": "sha256-2cl+5zm05Nuce8/gK/CzvnpmpFNifalGGiFodH2DUCw=",
+      "url": "_framework/MyFinance.Model.fuegzlpmr6.wasm"
     },
     {
-      "hash": "sha256-C0cje1XwrFwsLaC8ozJUSxoD+08bkW9Cyi5pYkZzZew=",
-      "url": "_framework/MyFinance.Utility.363wrlkfan.wasm"
+      "hash": "sha256-6wZX/vosn0kSVCK9VXn6cyfkB4F79hlKFXcrcFJb4Rg=",
+      "url": "_framework/MyFinance.Utility.jeqpx9f1rz.wasm"
     },
     {
-      "hash": "sha256-DEI2eynwog43Q5YRHITWvR95zocnOL5CjXsK0aHoh9Q=",
-      "url": "_framework/MyFinance.kq97tyxo9w.wasm"
+      "hash": "sha256-JVxNSyuB4nQUvTLNR1/Svr/xmMi6svm3yckn2B6uEIk=",
+      "url": "_framework/MyFinance.h9xb3jl29f.wasm"
     },
     {
-      "hash": "sha256-PJI9Y8kB4NSELuFcMaciYLkdTVbOVh+JSGBPn4oRfrQ=",
-      "url": "_framework/Supabase.RestAPI.kwnzya8z0v.wasm"
+      "hash": "sha256-Va+SnDnkmwXoe5AUrndhhlQhsjrSsnCHOJt9gICm188=",
+      "url": "_framework/Supabase.RestAPI.vbc1w3x93t.wasm"
     },
     {
       "hash": "sha256-9TzEb/4yGO2qH48P1CZK5qRxbzjXvNDL45UmicPHmbc=",
@@ -494,7 +494,7 @@ self.assetsManifest = {
       "url": "_framework/System.e3zjcgk0va.wasm"
     },
     {
-      "hash": "sha256-u9Ghzfct9RCOwjL9u1Eb4ENP4+t3O8ht8EjAqnQdooQ=",
+      "hash": "sha256-oK1UP7moG7GBQ0hEqnoRJMkKUNQuP+RB/Aap21cDsq8=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -530,7 +530,7 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-L1WQ6qL0y7expGPM1PF9yauJyKux1osnj22CnJk92Dc=",
+      "hash": "sha256-yHW0AMygqKC7rfZSfGl830W9A7QNusAGC++OiUiuxNU=",
       "url": "appsettings.json"
     },
     {
@@ -566,12 +566,24 @@ self.assetsManifest = {
       "url": "img/completed-goals.svg"
     },
     {
+      "hash": "sha256-yum4zGaN5N7Jp8zIyDdkcOXg8/wQSZB8vZKQaow8C/o=",
+      "url": "img/expense.svg"
+    },
+    {
+      "hash": "sha256-8CDmQESDFpdl3GzdrqU9ebTZKjS5j+1WrUwTvI25v90=",
+      "url": "img/goals-icon.svg"
+    },
+    {
       "hash": "sha256-uiQjusWtBBXGldtm60oEzoGIH+3QMh4GJ0Onr+08wd4=",
       "url": "img/logo-pack-1.svg"
     },
     {
       "hash": "sha256-zq/ZxiC36Tj6rIe1gtey3q8xTWcrT3GvUcE2r8PHcNY=",
       "url": "img/screen-storyset.com.svg"
+    },
+    {
+      "hash": "sha256-nrLNJ6YKcE6Pf8vJETecjdAZzmAUGEFlOm1h3QP7nOA=",
+      "url": "img/sip-entry.svg"
     },
     {
       "hash": "sha256-Sxx1+J/HxPTkGsw9YNWQu3TnacNeJVf7JDw14snKr+Q=",
