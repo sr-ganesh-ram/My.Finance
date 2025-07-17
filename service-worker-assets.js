@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "6bfvpeZI",
+  "version": "A2U7YTH+",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -346,28 +346,28 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.WebAssembly.rf2uk28jmv.wasm"
     },
     {
-      "hash": "sha256-0IxAxzibn2fmQrSV51EjMM4ZQn1ERHMM8kRbETFh6Z4=",
-      "url": "_framework/MudBlazor.s91ff0dq2v.wasm"
+      "hash": "sha256-LcJynZir1JucF8HFWD6cu7tbNMmPvGb3HpLVJLK2cE0=",
+      "url": "_framework/MudBlazor.vdmq6d7npr.wasm"
     },
     {
-      "hash": "sha256-rBasztKm2lxWAhQrLicA76jfvpB9jBtrzMPg/Qo4Mmg=",
-      "url": "_framework/MyFinace.Modules.03sehocn6j.wasm"
+      "hash": "sha256-9b3cooxpm1ec+7Hg8vUsSBkI/S9ti5i8b0VL5oGzX6c=",
+      "url": "_framework/MyFinace.Modules.fzd589mxxc.wasm"
     },
     {
-      "hash": "sha256-2cl+5zm05Nuce8/gK/CzvnpmpFNifalGGiFodH2DUCw=",
-      "url": "_framework/MyFinance.Model.fuegzlpmr6.wasm"
+      "hash": "sha256-0dOj4LMVddWCjJdFYsXheysXsH6b7bb+fH2pvqLBOBM=",
+      "url": "_framework/MyFinance.7ezoru7vw5.wasm"
     },
     {
-      "hash": "sha256-6wZX/vosn0kSVCK9VXn6cyfkB4F79hlKFXcrcFJb4Rg=",
-      "url": "_framework/MyFinance.Utility.jeqpx9f1rz.wasm"
+      "hash": "sha256-Z++nyB9yjS/7A4m/a/V0EO22Lu5EvijmrUJijzH2Iv4=",
+      "url": "_framework/MyFinance.Model.1mc3usq19r.wasm"
     },
     {
-      "hash": "sha256-JVxNSyuB4nQUvTLNR1/Svr/xmMi6svm3yckn2B6uEIk=",
-      "url": "_framework/MyFinance.h9xb3jl29f.wasm"
+      "hash": "sha256-L4k2wavBmQ1x+DLeoHCLcssOVYZ7rlV/4ZfI1MaCG0Q=",
+      "url": "_framework/MyFinance.Utility.338h2pw0z2.wasm"
     },
     {
-      "hash": "sha256-Va+SnDnkmwXoe5AUrndhhlQhsjrSsnCHOJt9gICm188=",
-      "url": "_framework/Supabase.RestAPI.vbc1w3x93t.wasm"
+      "hash": "sha256-f+l4pyLCJHYNqmlte4q/YVc+ytQVH/tdlJVg725OUEE=",
+      "url": "_framework/Supabase.RestAPI.jzktq4bl6i.wasm"
     },
     {
       "hash": "sha256-9TzEb/4yGO2qH48P1CZK5qRxbzjXvNDL45UmicPHmbc=",
@@ -494,7 +494,7 @@ self.assetsManifest = {
       "url": "_framework/System.e3zjcgk0va.wasm"
     },
     {
-      "hash": "sha256-oK1UP7moG7GBQ0hEqnoRJMkKUNQuP+RB/Aap21cDsq8=",
+      "hash": "sha256-rnte6OSXQ0yUy6jTvy/kaOsxS+siv27/L1iXu0Af5i0=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -530,7 +530,7 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-yHW0AMygqKC7rfZSfGl830W9A7QNusAGC++OiUiuxNU=",
+      "hash": "sha256-oVx/9/M8EQbBIMtnDHrdugI5jTpUdTEx4SJas6f66Pk=",
       "url": "appsettings.json"
     },
     {
