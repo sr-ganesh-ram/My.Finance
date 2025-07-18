@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "A2U7YTH+",
+  "version": "/gNNjK36",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -314,8 +314,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Extensions.Localization.bvn14pws96.wasm"
     },
     {
-      "hash": "sha256-0CJSxYasm1Ekr2a3FVvMke5/E7QHDGd+fHp9xBcXM0c=",
-      "url": "_framework/Microsoft.Extensions.Logging.Abstractions.4zmencpgme.wasm"
+      "hash": "sha256-K5RYVkVg5XqVoskTnsyA4LB5S8KGsMjmitWCqKoMoSw=",
+      "url": "_framework/Microsoft.Extensions.Logging.Abstractions.xl0zukdgdl.wasm"
     },
     {
       "hash": "sha256-JJNnDq0iOopbVgUVAadNFHJ9GY2NP5B+3G4z8kECtI0=",
@@ -350,12 +350,12 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.vdmq6d7npr.wasm"
     },
     {
-      "hash": "sha256-9b3cooxpm1ec+7Hg8vUsSBkI/S9ti5i8b0VL5oGzX6c=",
-      "url": "_framework/MyFinace.Modules.fzd589mxxc.wasm"
+      "hash": "sha256-hc3BIEsC9aqoozr/0yE8ReTa2GnzH29lJGxmvId5zkw=",
+      "url": "_framework/MyFinace.Modules.bw3z8vpf4z.wasm"
     },
     {
-      "hash": "sha256-0dOj4LMVddWCjJdFYsXheysXsH6b7bb+fH2pvqLBOBM=",
-      "url": "_framework/MyFinance.7ezoru7vw5.wasm"
+      "hash": "sha256-MFdiG7BmACD3YwfI0pk4kYtGZRTyirtzbiZh7xQNPvQ=",
+      "url": "_framework/MyFinance.0w11d744ws.wasm"
     },
     {
       "hash": "sha256-Z++nyB9yjS/7A4m/a/V0EO22Lu5EvijmrUJijzH2Iv4=",
@@ -494,7 +494,7 @@ self.assetsManifest = {
       "url": "_framework/System.e3zjcgk0va.wasm"
     },
     {
-      "hash": "sha256-rnte6OSXQ0yUy6jTvy/kaOsxS+siv27/L1iXu0Af5i0=",
+      "hash": "sha256-cfkaixVGf9uo7gMAgpJsSyRMaaRdme1YYFx78uO6E4k=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -530,7 +530,7 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-oVx/9/M8EQbBIMtnDHrdugI5jTpUdTEx4SJas6f66Pk=",
+      "hash": "sha256-Ctq7m8CfVBbHMpX3c0DbeQeefL8ol64bT7tGW09P9e8=",
       "url": "appsettings.json"
     },
     {

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyFinance",
   "resources": {
-    "hash": "sha256-OtzsopOQ5kuG39P4ncIovAyBss8eVQRLT5zg5Ctwi+c=",
+    "hash": "sha256-zM9WEhz9iSvPFQibL8XUFWMUUrMnkFhK2pnacl0dYbU=",
     "fingerprinting": {
       "Blazor-ApexCharts.yakf3dc36v.wasm": "Blazor-ApexCharts.wasm",
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
@@ -22,7 +22,7 @@
       "Microsoft.Extensions.Localization.bvn14pws96.wasm": "Microsoft.Extensions.Localization.wasm",
       "Microsoft.Extensions.Localization.Abstractions.l1t5yvo79f.wasm": "Microsoft.Extensions.Localization.Abstractions.wasm",
       "Microsoft.Extensions.Logging.z7l9uximn1.wasm": "Microsoft.Extensions.Logging.wasm",
-      "Microsoft.Extensions.Logging.Abstractions.4zmencpgme.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
+      "Microsoft.Extensions.Logging.Abstractions.xl0zukdgdl.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
       "Microsoft.Extensions.Logging.Configuration.8jj16dihtp.wasm": "Microsoft.Extensions.Logging.Configuration.wasm",
       "Microsoft.Extensions.Options.gcktm0k9pw.wasm": "Microsoft.Extensions.Options.wasm",
       "Microsoft.Extensions.Options.ConfigurationExtensions.0q4mcut5ob.wasm": "Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
@@ -61,11 +61,11 @@
       "System.Threading.5ve6dw6f80.wasm": "System.Threading.wasm",
       "System.e3zjcgk0va.wasm": "System.wasm",
       "System.Private.CoreLib.21vc1ey492.wasm": "System.Private.CoreLib.wasm",
-      "MyFinace.Modules.fzd589mxxc.wasm": "MyFinace.Modules.wasm",
+      "MyFinace.Modules.bw3z8vpf4z.wasm": "MyFinace.Modules.wasm",
       "MyFinance.Model.1mc3usq19r.wasm": "MyFinance.Model.wasm",
       "MyFinance.Utility.338h2pw0z2.wasm": "MyFinance.Utility.wasm",
       "Supabase.RestAPI.jzktq4bl6i.wasm": "Supabase.RestAPI.wasm",
-      "MyFinance.7ezoru7vw5.wasm": "MyFinance.wasm",
+      "MyFinance.0w11d744ws.wasm": "MyFinance.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.st0ovrfdhi.js": "dotnet.native.js",
       "dotnet.native.67rumul467.wasm": "dotnet.native.wasm",
@@ -112,7 +112,7 @@
       "Microsoft.Extensions.Localization.bvn14pws96.wasm": "sha256-6UgMJoVZBfDdfzYR0aKVK6BWArxpXC1qiQDDjiXw/L4=",
       "Microsoft.Extensions.Localization.Abstractions.l1t5yvo79f.wasm": "sha256-t19I6VxZwCrF7TNPpKuTiJ6Yj5/VKZoibZ4PY8nZf1g=",
       "Microsoft.Extensions.Logging.z7l9uximn1.wasm": "sha256-r3VKxi2YrZpRDt88oDBzbTZMS0XmLYBCLvI+XGJn1cA=",
-      "Microsoft.Extensions.Logging.Abstractions.4zmencpgme.wasm": "sha256-0CJSxYasm1Ekr2a3FVvMke5/E7QHDGd+fHp9xBcXM0c=",
+      "Microsoft.Extensions.Logging.Abstractions.xl0zukdgdl.wasm": "sha256-K5RYVkVg5XqVoskTnsyA4LB5S8KGsMjmitWCqKoMoSw=",
       "Microsoft.Extensions.Logging.Configuration.8jj16dihtp.wasm": "sha256-JJNnDq0iOopbVgUVAadNFHJ9GY2NP5B+3G4z8kECtI0=",
       "Microsoft.Extensions.Options.gcktm0k9pw.wasm": "sha256-QGIPTr+w3/waa0UcLsxrc1RSFG6iJGZVTY06lgInGqg=",
       "Microsoft.Extensions.Options.ConfigurationExtensions.0q4mcut5ob.wasm": "sha256-mGqtRMTAaz7Bp759kDm+pFCtkjpuKKgADR0kiGFADAQ=",
@@ -149,11 +149,11 @@
       "System.Text.RegularExpressions.98uwkr3dn9.wasm": "sha256-CbFoVXhYRGMhcOw9uhTw00Iro49aSUOFRvXzH8VQnRI=",
       "System.Threading.5ve6dw6f80.wasm": "sha256-P6Kx1xMdM5Gn3XB30b+QKnJtu4iF8Mv/WM6GKcBcJ7Q=",
       "System.e3zjcgk0va.wasm": "sha256-lrs/UyncE8iGHZBiACLKRTCGeN96e2DCnxdT0uncmRg=",
-      "MyFinace.Modules.fzd589mxxc.wasm": "sha256-9b3cooxpm1ec+7Hg8vUsSBkI/S9ti5i8b0VL5oGzX6c=",
+      "MyFinace.Modules.bw3z8vpf4z.wasm": "sha256-hc3BIEsC9aqoozr/0yE8ReTa2GnzH29lJGxmvId5zkw=",
       "MyFinance.Model.1mc3usq19r.wasm": "sha256-Z++nyB9yjS/7A4m/a/V0EO22Lu5EvijmrUJijzH2Iv4=",
       "MyFinance.Utility.338h2pw0z2.wasm": "sha256-L4k2wavBmQ1x+DLeoHCLcssOVYZ7rlV/4ZfI1MaCG0Q=",
       "Supabase.RestAPI.jzktq4bl6i.wasm": "sha256-f+l4pyLCJHYNqmlte4q/YVc+ytQVH/tdlJVg725OUEE=",
-      "MyFinance.7ezoru7vw5.wasm": "sha256-0dOj4LMVddWCjJdFYsXheysXsH6b7bb+fH2pvqLBOBM="
+      "MyFinance.0w11d744ws.wasm": "sha256-MFdiG7BmACD3YwfI0pk4kYtGZRTyirtzbiZh7xQNPvQ="
     }
   },
   "cacheBootResources": true,
