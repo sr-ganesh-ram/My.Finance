@@ -42,6 +42,10 @@
     <!--https://animate.style/-->
     <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <!-- Enable LogRocket -->
+    <script src="https://cdn.lgrckt-in.com/LogRocket.min.js" crossorigin="anonymous"></script>
+    <script>window.LogRocket && window.LogRocket.init('firecloud/myfinance');</script>
+    <!-- End of LogRocket -->
 </head>
 
 <body>
@@ -85,6 +89,46 @@
     <!-- Reference your JavaScript file from the Razor Class Library here -->
     <script src="js/device-detect.js" type="text/javascript" defer></script>
 
+    <script>
+        function getUserInfoAndPrint() {
+            const userInfoString = localStorage.getItem('userInfo');
+
+            if (userInfoString === null || userInfoString.trim() === '') {
+                console.log("userInfo not found in localStorage or is empty.");
+                return;
+            }
+
+            try {
+                const userInfo = JSON.parse(userInfoString);
+
+                if (userInfo) {
+                    // This is an example script - don't forget to change it!
+                    LogRocket.identify('MyFinance', {
+                        name: userInfo.Name,
+                        email: userInfo.Email,
+                        subscriptionType: 'free'
+                    });
+                    console.log("User Info Retrieved:");
+                    //console.log("ID: " + userInfo.Id);
+                    //console.log("Email: " + userInfo.Email);
+                    //console.log("Name: " + userInfo.Name);
+                } else {
+                    console.log("Parsed userInfo is null or undefined.");
+                    // This is an example script - don't forget to change it!
+                    LogRocket.identify('MyFinance', {
+                        name: 'Empty',
+                        email: 'init@myfin.com',
+                        subscriptionType: 'free'
+                    });
+                }
+            } catch (error) {
+                console.error("Error parsing userInfo from localStorage:", error);
+            }
+        }
+
+
+        
+    </script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
 
 

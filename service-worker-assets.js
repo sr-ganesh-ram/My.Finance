@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "rt8fPy4K",
+  "version": "zljAKSCS",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -350,12 +350,8 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.vdmq6d7npr.wasm"
     },
     {
-      "hash": "sha256-kzq8srdEcpl7oJBXICIT6OAlMO7Z3YvRKdj3FbNfNqA=",
-      "url": "_framework/MyFinace.Modules.ftr332mcx4.wasm"
-    },
-    {
-      "hash": "sha256-HHafHsUs42Zl88MV1z8N6EXkLsjN0gOvZgRZ7EbEuDQ=",
-      "url": "_framework/MyFinance.4i1ujgecb4.wasm"
+      "hash": "sha256-AoP4v0mMgSHL9w8GXc7lD4dfxratmBz5Br22TDxbYsA=",
+      "url": "_framework/MyFinace.Modules.u8co55xjpa.wasm"
     },
     {
       "hash": "sha256-Z++nyB9yjS/7A4m/a/V0EO22Lu5EvijmrUJijzH2Iv4=",
@@ -364,6 +360,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-L4k2wavBmQ1x+DLeoHCLcssOVYZ7rlV/4ZfI1MaCG0Q=",
       "url": "_framework/MyFinance.Utility.338h2pw0z2.wasm"
+    },
+    {
+      "hash": "sha256-To+MJGAlN+0Qs9lz/GB+f52iHxthH5Dw6O+Sw99QFK0=",
+      "url": "_framework/MyFinance.myz9d5x8oe.wasm"
     },
     {
       "hash": "sha256-f+l4pyLCJHYNqmlte4q/YVc+ytQVH/tdlJVg725OUEE=",
@@ -494,7 +494,7 @@ self.assetsManifest = {
       "url": "_framework/System.e3zjcgk0va.wasm"
     },
     {
-      "hash": "sha256-UfxyG5HHgLhBxbHNU5Xk1k2RsMTa773MQVCITxKG0dg=",
+      "hash": "sha256-f1P/gpExsgHGQZSNIwcAhrxetyYL5lJ98igTQ+OEeTU=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -530,7 +530,7 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-th9v4U1IRSu38yn7LmpOtyubuUDEgXf6XYxzy60idTg=",
+      "hash": "sha256-J/7f/oM6lSooeU4ruZbtc2TaUxVxirMhaF5pahoja34=",
       "url": "appsettings.json"
     },
     {
@@ -598,7 +598,7 @@ self.assetsManifest = {
       "url": "img/user.png"
     },
     {
-      "hash": "sha256-NY06lW1F3PtRZJ0lHQgpinsc+hU/z7fIzU/jps/MVBw=",
+      "hash": "sha256-kmUmbS3x7cNrdjgp1Uj/gjx+ucKM5zfx1xk+hKjTbJA=",
       "url": "index.html"
     },
     {
