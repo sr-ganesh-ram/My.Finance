@@ -37,6 +37,33 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
 
+    <!-- Bootstrap Markdown -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link href="_content/Blazor.Bootstrap/blazor.bootstrap.css" rel="stylesheet" />
+    <!-- Bootstrap End -->
+    <!-- Code Start  Highlight.js CSS theme - GitHub Dark -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+
+    <style>
+        pre {
+            margin-top:6px;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto; /* Ensures horizontal scrolling for long lines */
+            margin-bottom: 18px;
+            box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+            border: 0px solid #2A7B9B;
+            background: #2A7B9B;            
+            background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+        }
+        .mermaid {
+            text-align: center;
+            background-image: linear-gradient(to right, #434343 0%, black 100%);
+        }
+        
+    </style>
+    <!-- Code End -->
 
     <link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
     <!--https://animate.style/-->
@@ -127,11 +154,39 @@
         }
 
 
-        
+
     </script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
 
+    <!-- Highlight.js script - IMPORTANT: Place AFTER your code blocks -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <!-- Initialize Highlight.js to highlight all code blocks -->
+    <!--<script>hljs.highlightAll();</script>-->
 
+    <!-- Mermaid.js script - IMPORTANT: Place AFTER your diagram blocks -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <!-- Initialize Mermaid.js with 'dark' theme for better line visibility on dark backgrounds -->
+    <script src="app.js"></script>
+    <script>
+        function initializeMermaid_Highlight() {
+            mermaid.initialize({
+                startOnLoad: true,
+                theme: 'dark' /* Ensures lines are visible on dark backgrounds */
+            });
+            console.log("mermaid loaded.");
+            // first, find all the div.code blocks
+            document.querySelectorAll('pre').forEach(el => {
+                // then highlight each
+                hljs.highlightElement(el);
+            });
+            console.log("highlight loaded.");
+        }        
+    </script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+   
+    <!-- Bootstrap JS-->
 </body>
 
 </html>

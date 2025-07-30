@@ -1,0 +1,7 @@
+graph TD
+    A[E-commerce Application] -->|Writes/Updates Data| B(Amazon DynamoDB)
+    B -- CDC via DynamoDB Stream --> C(AWS Lambda Function)
+    C -->|Processes & Transforms Data| D(Amazon Kinesis Data Firehose)
+    D -->|Delivers Data| E(Amazon S3 - Raw Analytics)
+    E -->|Queries & Analytics| F(Amazon Athena / Amazon Redshift Spectrum)
+    F --> G(Business Intelligence Tools - e.g., Amazon QuickSight)
